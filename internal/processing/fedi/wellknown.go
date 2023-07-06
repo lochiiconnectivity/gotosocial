@@ -32,7 +32,7 @@ const (
 	hostMetaType                    = "application/xrd+xml"
 	hostMetaTemplate                = ".well-known/webfinger?resource={uri}"
 	nodeInfoVersion                 = "2.0"
-	nodeInfoSoftwareName            = "gotosocial"
+	nodeInfoSoftwareName            = "apd"
 	nodeInfoRel                     = "http://nodeinfo.diaspora.software/ns/schema/" + nodeInfoVersion
 	webfingerProfilePage            = "http://webfinger.net/rel/profile-page"
 	webFingerProfilePageContentType = "text/html"
